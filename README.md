@@ -1,12 +1,10 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@unl.edu
-
-(Your teammate's contact info, if appropriate)
+Ellie Kripal, ekripal2@unl.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+In this project, I plan on taking transcripts of various TedTalks found from YouTube. Using this, I will train the program to print out a new TedTalk, that I will then perform and film in standard TedTalk fashion. I want to use a plethora of types of TedTalks, including a randomized category, self help catgory, and "unique story" category. I also want to play with different types of TedTalks, like TedX and TedEd.
 
 ## Model/Data
 
